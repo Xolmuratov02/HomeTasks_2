@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "N51", "N51", "{B4DBC79C-C89D-4426-AD7C-7DF185042612}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{4A39A2DC-BE1E-458A-82B1-46764D98CB83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeTasks", "HomeTasks", "{8F9F8AF0-35A3-43AB-810B-4A1B1BFBCFE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - month", "4 - month", "{2647DD4A-3D88-4CB9-99A1-CD2AD5B567BD}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A39A2DC-BE1E-458A-82B1-46764D98CB83} = {B4DBC79C-C89D-4426-AD7C-7DF185042612}
+		{8F9F8AF0-35A3-43AB-810B-4A1B1BFBCFE8} = {B4DBC79C-C89D-4426-AD7C-7DF185042612}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37121B46-57DE-41B0-BA13-26E8643DE55C}
+	EndGlobalSection
+EndGlobal
