@@ -1,0 +1,14 @@
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\bin\Debug\net7.0\Task_Practice.exe
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\bin\Debug\net7.0\Task_Practice.deps.json
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\bin\Debug\net7.0\Task_Practice.runtimeconfig.json
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\bin\Debug\net7.0\Task_Practice.dll
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\bin\Debug\net7.0\Task_Practice.pdb
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\Task_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\Task_Practice.AssemblyInfoInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\Task_Practice.AssemblyInfo.cs
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\Task_Practice.csproj.CoreCompileInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\Task_Practice.dll
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\refint\Task_Practice.dll
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\Task_Practice.pdb
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\Task_Practice.genruntimeconfig.cache
+D:\Najot Ta'lim\HomeTasks_2\Task_Practice\obj\Debug\net7.0\ref\Task_Practice.dll
