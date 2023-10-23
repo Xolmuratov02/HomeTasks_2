@@ -1,0 +1,14 @@
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\bin\Debug\net7.0\N55_HT.exe
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\bin\Debug\net7.0\N55_HT.deps.json
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\bin\Debug\net7.0\N55_HT.runtimeconfig.json
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\bin\Debug\net7.0\N55_HT.dll
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\bin\Debug\net7.0\N55_HT.pdb
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\N55_HT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\N55_HT.AssemblyInfoInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\N55_HT.AssemblyInfo.cs
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\N55_HT.csproj.CoreCompileInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\N55_HT.dll
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\refint\N55_HT.dll
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\N55_HT.pdb
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\N55_HT.genruntimeconfig.cache
+D:\Najot Ta'lim\HomeTasks_2\N55_HT\obj\Debug\net7.0\ref\N55_HT.dll
