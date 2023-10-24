@@ -1,0 +1,13 @@
+﻿{
+  "AppSettings": {
+    "WebPort": 5000,
+    "DbConnection": {
+      "Host": "localhost",
+      "Port": 5432,
+      "User": "myuser",
+      "Password": "mypassword"
+    },
+    "GoogleMapsApiKey": "your_api_key_here",
+    "LogLevel": "Debug"
+  }
+}
