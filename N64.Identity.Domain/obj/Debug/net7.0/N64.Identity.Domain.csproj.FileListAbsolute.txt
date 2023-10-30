@@ -1,0 +1,15 @@
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\bin\Debug\net7.0\N64.Identity.Domain.deps.json
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\bin\Debug\net7.0\N64.Identity.Domain.dll
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\bin\Debug\net7.0\N64.Identity.Domain.pdb
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\bin\Debug\net7.0\N64.Identity.Persistance.dll
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\bin\Debug\net7.0\N64.Identity.Persistance.pdb
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.csproj.AssemblyReference.cache
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.AssemblyInfoInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.AssemblyInfo.cs
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.csproj.CoreCompileInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.csproj.CopyComplete
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.dll
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\refint\N64.Identity.Domain.dll
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\N64.Identity.Domain.pdb
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Domain\obj\Debug\net7.0\ref\N64.Identity.Domain.dll

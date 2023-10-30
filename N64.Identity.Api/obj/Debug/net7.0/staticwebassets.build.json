@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JAifLuUlOjyRQrgKLdmXvwkk7aNkbld6vlTQKUMH1Wc=",
+  "Source": "N64.Identity.Api",
+  "BasePath": "_content/N64.Identity.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

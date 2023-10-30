@@ -1,0 +1,11 @@
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\bin\Debug\net7.0\N64.Identity.Persistance.deps.json
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\bin\Debug\net7.0\N64.Identity.Persistance.dll
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\bin\Debug\net7.0\N64.Identity.Persistance.pdb
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\N64.Identity.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\N64.Identity.Persistance.AssemblyInfoInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\N64.Identity.Persistance.AssemblyInfo.cs
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\N64.Identity.Persistance.csproj.CoreCompileInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\N64.Identity.Persistance.dll
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\refint\N64.Identity.Persistance.dll
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\N64.Identity.Persistance.pdb
+D:\Najot Ta'lim\HomeTasks_2\N64.Identity.Persistance\obj\Debug\net7.0\ref\N64.Identity.Persistance.dll

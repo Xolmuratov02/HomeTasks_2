@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\N63_T.props" />
+</Project>
