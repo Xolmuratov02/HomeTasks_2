@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZoyU7rwpEIx+6b6ffo1Qz3vtrU14lEBEaEKsNAZfgOpSfvTZtjUjG3imx9rCsPF/KFhZf5KdLpvjmb8CpyTeeg==",
+  "success": true,
+  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\FileExplorerA.PI\\FileExplorerA.PI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.openapi\\1.6.9\\microsoft.openapi.1.6.9.nupkg.sha512"
+  ],
+  "logs": []
+}
