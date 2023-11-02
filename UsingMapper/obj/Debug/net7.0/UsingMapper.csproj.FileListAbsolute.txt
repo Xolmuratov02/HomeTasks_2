@@ -19,3 +19,12 @@ D:\Najot Ta'lim\HomeTasks_2\UsingMapper\obj\Debug\net7.0\refint\UsingMapper.dll
 D:\Najot Ta'lim\HomeTasks_2\UsingMapper\obj\Debug\net7.0\UsingMapper.pdb
 D:\Najot Ta'lim\HomeTasks_2\UsingMapper\obj\Debug\net7.0\UsingMapper.genruntimeconfig.cache
 D:\Najot Ta'lim\HomeTasks_2\UsingMapper\obj\Debug\net7.0\ref\UsingMapper.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Najot Ta'lim\HomeTasks_2\UsingMapper\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll

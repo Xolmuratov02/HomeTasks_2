@@ -1,8 +1,8 @@
 ﻿using System.Net;
 using System.Net.Mail;
 using Microsoft.Extensions.Options;
-using N64.Identity.Application.Common.Notifications.Services;
 using N64.Identity.Application.Common.Settings;
+using N64.Identity.Application.Common.Notifications.Services;
 
 namespace N64.Identity.Infrastructure.Common.Notfications.Services;
 

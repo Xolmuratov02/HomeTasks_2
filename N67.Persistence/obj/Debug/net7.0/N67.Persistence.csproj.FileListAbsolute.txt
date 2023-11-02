@@ -1,0 +1,17 @@
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\bin\Debug\net7.0\N67.Persistence.deps.json
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\bin\Debug\net7.0\N67.Persistence.runtimeconfig.json
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\bin\Debug\net7.0\N67.Persistence.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\bin\Debug\net7.0\N67.Persistence.pdb
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\bin\Debug\net7.0\N67.Domain.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\bin\Debug\net7.0\N67.Domain.pdb
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.csproj.AssemblyReference.cache
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.AssemblyInfoInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.AssemblyInfo.cs
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.csproj.CoreCompileInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.csproj.CopyComplete
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\refint\N67.Persistence.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.pdb
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\N67.Persistence.genruntimeconfig.cache
+D:\Najot Ta'lim\HomeTasks_2\N67.Persistence\obj\Debug\net7.0\ref\N67.Persistence.dll

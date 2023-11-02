@@ -1,0 +1,15 @@
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\bin\Debug\net7.0\N67.Application.deps.json
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\bin\Debug\net7.0\N67.Application.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\bin\Debug\net7.0\N67.Application.pdb
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\bin\Debug\net7.0\N67.Domain.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\bin\Debug\net7.0\N67.Domain.pdb
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.csproj.AssemblyReference.cache
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.AssemblyInfoInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.AssemblyInfo.cs
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.csproj.CoreCompileInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.csproj.CopyComplete
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\refint\N67.Application.dll
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\N67.Application.pdb
+D:\Najot Ta'lim\HomeTasks_2\N67.Application\obj\Debug\net7.0\ref\N67.Application.dll

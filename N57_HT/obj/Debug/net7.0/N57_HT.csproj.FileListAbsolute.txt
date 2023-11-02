@@ -1,0 +1,5 @@
+D:\Najot Ta'lim\HomeTasks_2\N57_HT\obj\Debug\net7.0\N57_HT.csproj.AssemblyReference.cache
+D:\Najot Ta'lim\HomeTasks_2\N57_HT\obj\Debug\net7.0\N57_HT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot Ta'lim\HomeTasks_2\N57_HT\obj\Debug\net7.0\N57_HT.AssemblyInfoInputs.cache
+D:\Najot Ta'lim\HomeTasks_2\N57_HT\obj\Debug\net7.0\N57_HT.AssemblyInfo.cs
+D:\Najot Ta'lim\HomeTasks_2\N57_HT\obj\Debug\net7.0\N57_HT.csproj.CoreCompileInputs.cache
