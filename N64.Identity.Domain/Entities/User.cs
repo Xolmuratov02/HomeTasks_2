@@ -1,6 +1,8 @@
-﻿namespace N64.Identity.Domain.Entities;
+﻿using N64.Identity.Domain.Common;
 
-public class User
+namespace N64.Identity.Domain.Entities;
+
+public class User : IEntity
 {
     public Guid Id { get; set; }
 
@@ -15,4 +17,8 @@ public class User
     public string PasswordHash { get; set; } = default!;
 
     public bool IsEmailAddressVerified { get; set; }
+
+    public Guid RoleId { get; set; }
+
+    public virtual Role Role { get; set; }
 }

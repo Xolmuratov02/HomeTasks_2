@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\N64.Identity.Persistance\N64.Identity.Persistance.csproj" />
-  </ItemGroup>
-
 </Project>

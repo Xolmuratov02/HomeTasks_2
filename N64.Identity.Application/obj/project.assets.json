@@ -148,24 +148,11 @@
       "N64.Identity.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "N64.Identity.Persistance": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/N64.Identity.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/N64.Identity.Domain.dll": {}
-        }
-      },
-      "N64.Identity.Persistance/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/N64.Identity.Persistance.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/N64.Identity.Persistance.dll": {}
         }
       }
     }
@@ -435,11 +422,6 @@
       "type": "project",
       "path": "../N64.Identity.Domain/N64.Identity.Domain.csproj",
       "msbuildProject": "../N64.Identity.Domain/N64.Identity.Domain.csproj"
-    },
-    "N64.Identity.Persistance/1.0.0": {
-      "type": "project",
-      "path": "../N64.Identity.Persistance/N64.Identity.Persistance.csproj",
-      "msbuildProject": "../N64.Identity.Persistance/N64.Identity.Persistance.csproj"
     }
   },
   "projectFileDependencyGroups": {

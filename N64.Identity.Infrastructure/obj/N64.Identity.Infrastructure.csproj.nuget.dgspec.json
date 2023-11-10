@@ -102,11 +102,7 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj": {
-                "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -169,6 +165,9 @@
             "projectReferences": {
               "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Application\\N64.Identity.Application.csproj": {
                 "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Application\\N64.Identity.Application.csproj"
+              },
+              "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj": {
+                "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj"
               }
             }
           }
@@ -240,7 +239,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Domain\\N64.Identity.Domain.csproj": {
+                "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Domain\\N64.Identity.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -252,6 +255,24 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
