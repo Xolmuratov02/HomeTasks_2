@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNFOp8rs31fN7FpSUx++E5O9wEJboPr1Wl9YteihPq2qrkaAx/fW1aGluAxbB+Ar48fA4lwsY5MyPztiKQLlkg==",
+  "success": true,
+  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N74\\N74.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xolmu\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

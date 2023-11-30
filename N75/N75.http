@@ -1,0 +1,6 @@
+@N75_HostAddress = http://localhost:5059
+
+GET {{N75_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
