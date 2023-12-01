@@ -154,11 +154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\N57_HT\\N57_HT.csproj",
+      "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N57_HT\\N57_HT.csproj",
       "projectName": "N57_HT",
-      "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N57_HT\\N57_HT.csproj",
+      "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N57_HT\\N57_HT.csproj",
       "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-      "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N57_HT\\obj\\",
+      "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N57_HT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

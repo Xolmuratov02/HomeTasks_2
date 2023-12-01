@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I8iMlClKkp97EuPsyeZrDSLTbXQ41AhNJbJl0Z/sGYrHehU2XzB4mavI3iu4nmZBwgWAcgT4ZhP6Bbs7usNZsQ==",
+  "dgSpecHash": "5PEhnBycKBKTFyEmvDCXZ3x8Fzgx6DhiG1b0k/y8mvAy+tsD3Ufz1/VeVvSZIEKqOxo0Pg1NT0kIie4d1gQ1Cw==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Infrastructure\\N64.Identity.Infrastructure.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N64.Identity.Infrastructure\\N64.Identity.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",

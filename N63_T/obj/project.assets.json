@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\N63_T\\N63_T.csproj",
+      "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_T\\N63_T.csproj",
       "projectName": "N63_T",
-      "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N63_T\\N63_T.csproj",
+      "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_T\\N63_T.csproj",
       "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-      "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N63_T\\obj\\",
+      "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_T\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

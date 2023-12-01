@@ -2302,11 +2302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\N71\\N71.csproj",
+      "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N71\\N71.csproj",
       "projectName": "N71",
-      "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N71\\N71.csproj",
+      "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N71\\N71.csproj",
       "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-      "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N71\\obj\\",
+      "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N71\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

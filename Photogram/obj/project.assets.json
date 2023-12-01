@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\Photogram\\Weather.csproj",
+      "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\Photogram\\Weather.csproj",
       "projectName": "Weather",
-      "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\Photogram\\Weather.csproj",
+      "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\Photogram\\Weather.csproj",
       "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-      "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\Photogram\\obj\\",
+      "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\Photogram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

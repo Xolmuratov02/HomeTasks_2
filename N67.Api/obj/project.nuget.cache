@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0qcu66Yy6RD1WhDDu4E8fw23hEd3YLMFiBAchQRpHQxgwM4QOix2EKw2ZATqgd8Lkh+teS6msVtqd2vvgri6A==",
+  "dgSpecHash": "387yNR0JtU6SC5kUSmOoFHmwv4HkyUngTOa32+gwF2NBC6ZEu+UmHPjSWcLP9NyRJs6Z7gWm1qtumTsDbwQ1qg==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N67.Api\\N67.Api.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N67.Api\\N67.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",

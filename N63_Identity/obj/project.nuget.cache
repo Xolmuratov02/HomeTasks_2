@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bHyswIoJi0SoyVTN2TSCjBi2KuedZEgND2sY4G1ttYM0hO7rAJ6z+2GLXphgEElebmR9yue1NsKonGO/7jVDJg==",
+  "dgSpecHash": "FHRWq5+QvHh6mI+a+WbO5sgKax9VjBSxU5xmPlAaD2BtGH1mhKNvuIRBnGT53rrlI+AKjVlIT0K6sMJYz1N3oA==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

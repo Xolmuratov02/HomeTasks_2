@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKGluzQjQRMJ4Og/RIBmt4V2Q62jTgNxh3GQNA+sXMwH1pEvdPOu1+HwaKplk8E1Kl2zbYXRw52+I1Oy4stjrg==",
+  "dgSpecHash": "DmtCUPfdYd0THYQbnGt+I5mVMxGXGbMm48j3YvICfDt3P+zpC/eEOP/uG8zRL5ZtQkZTcZOAhuYaVC69xXIW7g==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N67.Persistence\\N67.Persistence.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N67.Persistence\\N67.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

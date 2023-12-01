@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Najot Ta'lim\\HomeTasks_2\\DemoApl\\DemoApl.csproj": {}
+    "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\DemoApl\\DemoApl.csproj": {}
   },
   "projects": {
-    "D:\\Najot Ta'lim\\HomeTasks_2\\DemoApl\\DemoApl.csproj": {
+    "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\DemoApl\\DemoApl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\DemoApl\\DemoApl.csproj",
+        "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\DemoApl\\DemoApl.csproj",
         "projectName": "DemoApl",
-        "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\DemoApl\\DemoApl.csproj",
+        "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\DemoApl\\DemoApl.csproj",
         "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-        "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\DemoApl\\obj\\",
+        "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\DemoApl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

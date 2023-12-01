@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\FileEx\\FileEx.csproj",
+      "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\FileEx\\FileEx.csproj",
       "projectName": "FileEx",
-      "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\FileEx\\FileEx.csproj",
+      "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\FileEx\\FileEx.csproj",
       "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-      "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\FileEx\\obj\\",
+      "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\FileEx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

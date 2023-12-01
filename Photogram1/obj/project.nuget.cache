@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZmT6rwsgRVeeAbqvGyYA5uxBRAJvDt3BfRuLk3efUYccNIbXvL7gZVGHo46ua6E35TuD8SFsL6QOf6CXSJdikg==",
+  "dgSpecHash": "F4osuJTfF7PkSIb4MWsKel0C6iWqd1SwpuKAfyxE6je49LqWA6bnDSstfftVsImzHgiRos052o0vJytCrlt2MQ==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\Photogram1\\Photogram1.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\Photogram1\\Photogram1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\max.filebasecontext.abstractions\\0.0.4\\max.filebasecontext.abstractions.0.0.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DK3wWg4CZwV8YNR+9GUQrznEqd7NOtDBhp87h10nTnDl9xleBjgU161kknkUmEY4dYrBXAIZ9ktp+r9L9nsgZg==",
+  "dgSpecHash": "LPTRx2/mC6zRfu3leHmXjWeYDj2iYOdOG1F8JKzdYFti3ctJ8qFIDTlzlsQcA9nh1T2B6uKryJXoKfzjh9tXvA==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N67.Infrastructure\\N67.Infrastructure.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N67.Infrastructure\\N67.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",

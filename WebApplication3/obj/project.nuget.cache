@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mF8bddbwoWXS9QOSlVV+8aRqsCSwAWvJYE77Vcqrr0hQlDfO3R0VRn/SVewbZ9W3caq7/7BL+/uF+X2bKuC2Ng==",
+  "dgSpecHash": "hHR6V6UQlhkkKXKh/s6RuUfnWeyKhC4sDiHstxItA66DyX+sSFL8ebqYt6pIheVXuJuliffpWYdPYXa/hLqSNQ==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\WebApplication3\\WebApplication3.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\WebApplication3\\WebApplication3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

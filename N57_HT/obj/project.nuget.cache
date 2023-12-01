@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+AU7ahgJuwjN0fEZ/URekSUhvWg1PqlGBIWRTzG8rofuLf9bQ/GcdK1azCGJzDXMidbXxaJ3dSegVrqnqGFYjg==",
+  "dgSpecHash": "JP1qSSqPXJ7XbIRKcQh85nOt9qYi53atSugIDLTvBFLuz47xTOzX4BcDRrCxWxQTMPWa8NfVhOeLtp8AS86Iew==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N57_HT\\N57_HT.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N57_HT\\N57_HT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

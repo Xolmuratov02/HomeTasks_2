@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Najot Ta'lim\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj": {}
+    "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj": {}
   },
   "projects": {
-    "D:\\Najot Ta'lim\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj": {
+    "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj",
+        "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj",
         "projectName": "N63_Identity",
-        "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj",
+        "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_Identity\\N63_Identity.csproj",
         "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-        "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N63_Identity\\obj\\",
+        "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N63_Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

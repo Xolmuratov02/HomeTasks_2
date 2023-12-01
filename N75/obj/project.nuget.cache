@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yhXc4l0ozkrgMuMUwBl3BVWrgQjFuBzV8qgtOy7IZKNbYXCTMuNSaN7RQwWWVHBw9N9Rz6Cyur3/9X59SZHYew==",
+  "dgSpecHash": "kTsDVQI/Q59KIs8l29JGjg6+2GFC7XNs8LPEH+3N7wqZPJVtrJYBzsEtORz2JAl2SYjvMj8GLZURJPgz3gf8TQ==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N75\\N75.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N75\\N75.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

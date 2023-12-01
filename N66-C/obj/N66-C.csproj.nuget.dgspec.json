@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Najot Ta'lim\\HomeTasks_2\\N66-C\\N66-C.csproj": {}
+    "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N66-C\\N66-C.csproj": {}
   },
   "projects": {
-    "D:\\Najot Ta'lim\\HomeTasks_2\\N66-C\\N66-C.csproj": {
+    "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N66-C\\N66-C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\N66-C\\N66-C.csproj",
+        "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N66-C\\N66-C.csproj",
         "projectName": "N66-C",
-        "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N66-C\\N66-C.csproj",
+        "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N66-C\\N66-C.csproj",
         "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-        "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N66-C\\obj\\",
+        "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N66-C\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

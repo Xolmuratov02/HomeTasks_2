@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HqO38L2kruXyZcO8jbVXbwl1MG8aRbqxh2JbcLX4X/Cj9VPtwz92j+Zn5ge9DN07hi2276mA98XLtqoFJlvv2g==",
+  "dgSpecHash": "rFBgpmqojlNqyu7AtLWbcmlKnQbrsYslN651drd9Zs7j9MNjUD6G0cFTxrKjCk5HSIDCGHFweYo1swuDNSmrjA==",
   "success": true,
-  "projectFilePath": "D:\\Najot Ta'lim\\HomeTasks_2\\N66-C\\N66-C.csproj",
+  "projectFilePath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N66-C\\N66-C.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xolmu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\xolmu\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

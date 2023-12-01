@@ -1049,11 +1049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj",
+      "projectUniqueName": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj",
       "projectName": "N64.Identity.Persistance",
-      "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj",
+      "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N64.Identity.Persistance\\N64.Identity.Persistance.csproj",
       "packagesPath": "C:\\Users\\xolmu\\.nuget\\packages\\",
-      "outputPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Persistance\\obj\\",
+      "outputPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N64.Identity.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1075,8 +1075,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Domain\\N64.Identity.Domain.csproj": {
-              "projectPath": "D:\\Najot Ta'lim\\HomeTasks_2\\N64.Identity.Domain\\N64.Identity.Domain.csproj"
+            "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N64.Identity.Domain\\N64.Identity.Domain.csproj": {
+              "projectPath": "D:\\Najot Ta'lim\\Projects\\HomeTasks_2\\N64.Identity.Domain\\N64.Identity.Domain.csproj"
             }
           }
         }
